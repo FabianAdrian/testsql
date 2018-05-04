@@ -1,1 +1,8 @@
 finnaly?
+
+adauga modificari
+$ cd /e/testsql/learn/testsql/
+$ git add test.txt
+$ git commit -am "incercare "
+$ git push
+
